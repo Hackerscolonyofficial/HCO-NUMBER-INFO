@@ -8,9 +8,9 @@
 
 ### 📌 About
 
-HCO NUMBER INFO is a colorful terminal-based phone number metadata viewer.
+### HCO NUMBER INFO is a colorful terminal-based phone number metadata viewer.
 
-This tool helps display public phone metadata such as:
+## This tool helps display public phone metadata such as:
 
 - Validation Status
 - Carrier Information
