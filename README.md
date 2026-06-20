@@ -99,7 +99,7 @@ pkg install git
 
 ### Step 4 — Clone Repository
 
-git clone YOUR_REPO_URL
+git clone (https://github.com/Hackerscolonyofficial/HCO-NUMBER-INFO.git)
 
 ---
 
