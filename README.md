@@ -193,5 +193,6 @@ If you like this project:
 💚 Share
 
 ---
+License: All Rights Reserved
 
 HCO NUMBER INFO © 2026
