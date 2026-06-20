@@ -1,12 +1,12 @@
-📱 HCO NUMBER INFO
+### 📱 HCO NUMBER INFO
 
 <p align="center"><img src="https://img.shields.io/badge/HCO-NUMBER_INFO-green?style=for-the-badge"><img src="https://img.shields.io/badge/Version-1.0-yellow?style=for-the-badge"><img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge"><img src="https://img.shields.io/badge/OS-Termux-black?style=for-the-badge"></p><p align="center">Professional Terminal Phone Metadata Viewer
 
-Created By Azhar Team HCO
+### Created By Azhar Team HCO
 
 </p>---
 
-📌 About
+### 📌 About
 
 HCO NUMBER INFO is a colorful terminal-based phone number metadata viewer.
 
@@ -72,44 +72,44 @@ This tool is designed for educational and informational use only.
 ██║  ██║╚██████╗╚██████╔╝
 ╚═╝  ╚═╝ ╚═════╝ ╚═════╝
 
-HCO NUMBER INFO
-By Azhar Team HCO
+#### HCO NUMBER INFO
+## By Azhar Team HCO
 
 ---
 
-⚙ Installation
+### ⚙ Installation
 
-Step 1 — Update Packages
+### Step 1 — Update Packages
 
 pkg update && pkg upgrade
 
 ---
 
-Step 2 — Install Python
+### Step 2 — Install Python
 
 pkg install python
 
 ---
 
-Step 3 — Install Git
+### Step 3 — Install Git
 
 pkg install git
 
 ---
 
-Step 4 — Clone Repository
+### Step 4 — Clone Repository
 
 git clone YOUR_REPO_URL
 
 ---
 
-Step 5 — Open Folder
+### Step 5 — Open Folder
 
 cd HCO-NUMBER-INFO
 
 ---
 
-Step 6 — Install Requirements
+### Step 6 — Install Requirements
 
 pip install phonenumbers
 pip install colorama
@@ -122,35 +122,23 @@ pip install -r requirements.txt
 
 ---
 
-▶ Run Tool
+## ▶ Run Tool
 
 python hco.py
 
 ---
 
-📂 Project Structure
+### 📋 Output Example
 
-HCO-NUMBER-INFO
-
-├── hco.py
-├── history.txt
-├── result.txt
-├── requirements.txt
-├── README.md
+### 🟢 STATUS        VALID
+### 🌍 COUNTRY       India
+### 📡 NETWORK       Reliance Jio
+### 🕒 TIMEZONE      Asia/Calcutta
+### 🔢 E164          +91XXXXXXXXXX
 
 ---
 
-📋 Output Example
-
-🟢 STATUS        VALID
-🌍 COUNTRY       India
-📡 NETWORK       Reliance Jio
-🕒 TIMEZONE      Asia/Calcutta
-🔢 E164          +91XXXXXXXXXX
-
----
-
-⚠ Disclaimer
+### ⚠ Disclaimer
 
 This tool:
 
@@ -170,11 +158,11 @@ Use responsibly.
 
 ---
 
-👨‍💻 Author
+### 👨‍💻 Author
 
-Code By Azhar
+### Code By Azhar
 
-Team: Azhar Team HCO
+### Team: Azhar Team HCO
 
 ---
 
@@ -191,10 +179,6 @@ https://github.com/
 Instagram
 
 https://instagram.com/
-
-Telegram
-
-https://t.me/
 
 ---
 
