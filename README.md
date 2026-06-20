@@ -1,4 +1,4 @@
-####### HCO NUMBER INFO 📱
+##### HCO NUMBER INFO 📱
 
 <p align="center"><img src="https://img.shields.io/badge/HCO-NUMBER_INFO-green?style=for-the-badge"><img src="https://img.shields.io/badge/Version-1.0-yellow?style=for-the-badge"><img src="https://img.shields.io/badge/Python-3-blue?style=for-the-badge"><img src="https://img.shields.io/badge/OS-Termux-black?style=for-the-badge"></p><p align="center">Professional Terminal Phone Metadata Viewer
 
